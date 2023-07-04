@@ -2,7 +2,7 @@
 
 🔭 Exploring the vast landscape of technology and embracing the power of data. Passionate about leveraging cloud computing to drive innovation and solve real-world problems.
 
-🌩️ Google Cloud Computing Enthusiast\n
+🌩️ Google Cloud Computing Enthusiast \n
 💡 AWS Cloud Practitioner | C, C++, Python, SQL, HTML
 🔬 Skilled in Data Science | Numpy, Pandas, Matplotlib
 📊 Proficient in POWER BI for data visualization
