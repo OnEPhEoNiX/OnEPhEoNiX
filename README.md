@@ -29,6 +29,5 @@
 
 Want to see my Holopin badges? Click below:
 
-[![@mohaksinghania's Holopin board](https://holopin.me/mohaksinghania)](https://holopin.io/@mohaksinghania)
-
+[![An image of @mohaksinghania's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohaksinghania)](https://holopin.io/@mohaksinghania)
 ## Let's unlock the potential of the cloud together and shape a data-driven future! 🚀💡✨
